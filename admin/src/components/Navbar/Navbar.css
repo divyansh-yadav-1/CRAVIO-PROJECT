@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4% ;
+}
+h1{
+    font-size: 1.5rem;
+    color:rgb(10, 10, 11);
+    font-weight: 500;
+    font-family: 'Pacifico', 'Caveat', 'Comic Sans MS', cursive, sans-serif; /* Stylish and unique */
+    letter-spacing: 2px;
+    text-shadow: 1px 2px 8px #e0e6f7;
+}
+.navbar .logo{
+    width: 250px;
+}
+
+.navbar .profile{
+    width: 100px;
+}
