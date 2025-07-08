@@ -7,7 +7,7 @@ const stripe =new Stripe(process.env.STRIPE_SECRET_KEY)
 
 //placing user order from frontend
 const placeOrder=async (req,res) => {
-    const frontend_url="http://localhost:5173"; // Change this to your frontend URL if needed
+    const frontend_url="https://cravio-frontend.onrender.com"; // Change this to your frontend URL if needed
     try {
         const newOrder = new orderModel({
             userId:req.body.userId,
