@@ -1,29 +1,38 @@
-﻿# Food-delivery-app
-Tomato 🍅
+# 🍽️ Cravio - Food Delivery App
 
-Tomato is a modern food delivery service application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It provides a seamless user experience for ordering food online with secure payment processing through Stripe.
+**Cravio** is a modern, full-stack food delivery web application built using the **MERN** stack (MongoDB, Express.js, React.js, Node.js), integrated with **Stripe** for secure online payments. Whether you're craving something spicy or sweet, Cravio brings your favorite meals to your doorstep with ease.
 
+---
 
-Features:
- 1. User Authentication: Sign up and log in using JWT-based authentication.
- 2. Restaurant & Menu Management: Browse restaurants and their menus.
- 3. Order Placement: Add items to the cart and place orders.
- 4. Payment Integration: Secure payments powered by Stripe.
- 5. Order Tracking: Track the status of your orders in real-time.
- 6. Admin Panel: Manage restaurants, menus, and orders.
+## 🚀 Features
 
-Tech Stack:
- 1. Frontend: React.js, Redux, CSS
- 2. Backend: Node.js, Express.js
- 3. Database: MongoDB
- 4. Payment Gateway: Stripe
+- 🔐 **JWT Authentication** – Secure user sign-up and login.
+- 🏪 **Restaurant & Menu Browsing** – Discover restaurants and their food items.
+- 🛒 **Cart Management & Orders** – Add to cart, review, and place orders.
+- 💳 **Stripe Payments** – Smooth and secure payment process.
+- 📦 **Live Order Tracking** – Track your order status in real-time.
+- 🛠 **Admin Panel** – Manage restaurants, menus, and orders (for admins).
 
+---
 
-Installation:
-  Clone the repository:
-  
-    git clone https://github.com/your-username/tomato.git
-    cd tomato
+## 🧰 Tech Stack
+
+| Layer     | Technology                  |
+|-----------|-----------------------------|
+| Frontend  | React.js, Redux, CSS        |
+| Backend   | Node.js, Express.js         |
+| Database  | MongoDB                     |
+| Payments  | Stripe                      |
+
+---
+
+## ⚙️ Installation & Setup
+
+### Step 1: Clone the Repository
+
+git clone https://github.com/your-username/cravio-project.git
+cd cravio
+
 
 Install dependencies:
 
