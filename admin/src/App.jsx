@@ -9,7 +9,7 @@ import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 const App = () => {
-  const url="http://localhost:4000"; // Change this to your backend URL if needed
+  const url="https://cravio-backend.onrender.com"; // Change this to your backend URL if needed
   return (
     <div>
       <ToastContainer/>
