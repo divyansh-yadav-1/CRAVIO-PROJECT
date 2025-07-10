@@ -8,11 +8,11 @@
 ## 🚀 Features
 
 - 🔐 **JWT Authentication** – Secure user sign-up and login.
-- 🏪 **Restaurant & Menu Browsing** – Discover restaurants and their food items.
+- 🏪 **Restaurant & Menu Browsing** – Discover restaurant and their food items.
 - 🛒 **Cart Management & Orders** – Add to cart, review, and place orders.
 - 💳 **Stripe Payments** – Smooth and secure payment process.
 - 📦 **Live Order Tracking** – Track your order status in real-time.
-- 🛠 **Admin Panel** – Manage restaurants, menus, and orders (for admins).
+- 🛠 **Admin Panel** – Manage restaurant, menus, and orders (for admins).
 
 ---
 
