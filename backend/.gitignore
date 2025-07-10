@@ -11,6 +11,7 @@ lerna-debug.log*
 /coverage
 /build
 /.pnp
+/.env
 dist
 dist-ssr
 *.local
